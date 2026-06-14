@@ -1,2 +1,5 @@
-# tacticl-exp-20260614-013052
-full-exp smoke (safe to delete)
+# tacticl-exp
+
+This line has a typo: teh dashboard renders artifacts.
+
+(Task: change "teh" to "the".)
